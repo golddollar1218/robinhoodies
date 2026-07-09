@@ -1046,7 +1046,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
       l = [
         {
           label: "TRADE",
-          href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon&chain=robinhood",
+          href: "https://app.uniswap.org/swap?outputCurrency=0x7660432dd17c8c7107b182f6abaf1e6dac6cfa57&chain=robinhood",
           external: !0,
         },
         { label: "NARRATIVE", href: "#thesis" },
@@ -1202,7 +1202,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
           },
         ],
       ]),
-      n = "0xcomingsoon";
+      n = "0x7660432dd17c8c7107b182f6abaf1e6dac6cfa57";
     e.s(
       [
         "CopyContract",
@@ -1806,7 +1806,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
         0,
         function () {
           return (0, t.jsx)("a", {
-            href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon&chain=robinhood",
+            href: "https://app.uniswap.org/swap?outputCurrency=0x7660432dd17c8c7107b182f6abaf1e6dac6cfa57&chain=robinhood",
             target: "_blank",
             rel: "noopener noreferrer",
             "aria-label": "Quick trade on Uniswap",
