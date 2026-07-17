@@ -151,6 +151,7 @@
       memeButtons.forEach((item, itemIndex) => {
         item.classList.toggle("is-active", itemIndex === memeIndex);
       });
+      button.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "nearest" });
 
       memeImage.classList.add("is-changing");
       window.setTimeout(() => {
